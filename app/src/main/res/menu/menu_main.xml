@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:title="@string/bottom_sheet_behavior">
+
+    <item android:id="@+id/Bottombaritemone"
+    android:icon="@drawable/ic_home_black_18dp"
+    android:title="Home">
+    </item>
+
+    <item android:id="@+id/Bottombaritemtwo"
+        android:icon="@drawable/ic_person_black_18dp"
+        android:title="Profile">
+    </item>
+
+    <item android:id="@+id/Bottombaritemthree"
+        android:icon="@drawable/ic_assignment_turned_in_black_18dp"
+        android:title="Atte">
+    </item>
+
+    <item android:id="@+id/Bottombaritemfour"
+        android:icon="@drawable/ic_chrome_reader_mode_black_18dp"
+        android:title="Marks">
+    </item>
+
+</item>
+</menu>

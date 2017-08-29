@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "186741540385",
+    "firebase_url": "https://govtpolytechnic-65c53.firebaseio.com",
+    "project_id": "govtpolytechnic-65c53",
+    "storage_bucket": "govtpolytechnic-65c53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186741540385:android:22f382f55a9bceef",
+        "android_client_info": {
+          "package_name": "com.example.kalya.govtpolytechnic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186741540385-llms11lrce4e99q1rtjr0fckfsef04e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kalya.govtpolytechnic",
+            "certificate_hash": "94102BEB835E8A596C1CF39A097E35536AA2FB86"
+          }
+        },
+        {
+          "client_id": "186741540385-98vb097b6h9linae6jst71e4dr1qgn0h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHUGy_TdFjV5ZxPkC89uO9JVVKF0QrDRI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186741540385-98vb097b6h9linae6jst71e4dr1qgn0h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
